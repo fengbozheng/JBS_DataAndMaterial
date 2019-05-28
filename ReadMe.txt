@@ -1,3 +1,4 @@
+This repository is for JBS submission -- A lexical-based approach for exhaustive detection of missing hierarchical relations in SNOMED CT.
 Three folders:
 	ExperimentResult: contains all detected missing IS-A relations from 17 sub-hierarchy of SNOMED CT (they are stored in csv file, use text editor to open, Excel may transfer concept IDs to scientific numbers).
 	EvaluationFile: contains the original evaluation file, reviewed one by domain expert JS, and a further edited evaluation file for incorrect IS-A relations in current SNOMED CT.
